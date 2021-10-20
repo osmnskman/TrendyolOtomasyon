@@ -109,10 +109,5 @@ public class AppTest extends BasePage {
 
     }
 
-    @Test
-    public void gaddToBasket(By by) {
-
-
-    }
 
 }
