@@ -1,4 +1,5 @@
 ## TrendyolOtomasyon
+
 #Yapılanlar
 Login yap
 Cinsiyet seçimi yap
@@ -8,6 +9,7 @@ Kazak aratılsın
 Listeden gelen
 10.elemente tıkla
 Favori yap
+
 #Yapılmayanlar
 Sepete ekle detaylarla
 Sepete git
