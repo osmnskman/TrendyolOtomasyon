@@ -1,6 +1,7 @@
 ## TrendyolOtomasyon
 
-#Yapılanlar
+YAPILANLAR
+
 * Login yap
 * Cinsiyet seçimi yap
 * Cinsiyete göre sayfayı aç
@@ -10,7 +11,8 @@
 * 10.elemente tıkla
 * Favori yap
 
-#Yapılmayanlar
+YAPILMAYANLAR
+
 * Sepete ekle detaylarla
 * Sepete git
 * Fiyat kontrolü
